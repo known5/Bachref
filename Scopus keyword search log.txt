@@ -1,0 +1,65 @@
+Scopus search:
+
+Query: TITLE-ABS-KEY ( 'cloud  AND security' )  AND  ( LIMIT-TO ( PUBSTAGE ,  "final" ) )  AND  ( LIMIT-TO ( DOCTYPE ,  "cp" )  OR  LIMIT-TO ( DOCTYPE ,  "ar" ) )  AND  ( LIMIT-TO ( SRCTYPE ,  "p" )  OR  LIMIT-TO ( SRCTYPE ,  "j" ) )  AND  ( LIMIT-TO ( PUBYEAR ,  2019 ) )  AND  ( LIMIT-TO ( EXACTKEYWORD ,  "Data Security" ) ) 
+
+
+--- Final list of attacks:
+- Co-residence attacks (VM)
+- (D)Dos (Network)
+- IP Spoofing
+- Hyperjacking (VM)
+- Side channel attack
+- Man in the middle attack
+
+
+
+
+
+
+Keyword: Data security
+- issues: 
+    - Co-residence attacks
+
+- notes: lot of papers about the data storage and encryption
+
+
+Keyword: Digital Storage
+- issues:
+    - Data encryption
+    - Data storage
+    
+- notes: 
+    -Sub Keywords: Cryptograhy, Cloud storages, Cloud storage
+    - issues:
+        - Key management
+
+
+-Keyword: Network Security
+- issues:
+    - DDos
+    - Authentication
+    - IP Spoofing
+    - Man in the middle attack (MITM)
+    
+-notes: 
+    -Sub Keyword: Authentication
+    - notes: leads to similar keywords/issues as the data storage/encryption keywords.
+    -Sub Keyword: Green computing
+    - Notes: papers on improving the enery efficiency for the cloud
+    - Issues: 
+        - VM consolidation
+    
+    -Sub keyword: Virtual machine
+    - issues: Virtual machine placement*(not really security related)
+        - 
+    - notes: Lot of papers on improving the performance of virtualization, i.e. scheduling and resource allocation
+    
+    -Sub keyword: Internet of things
+    - Issues: a lot of intrusion detection systems.
+    
+Keyword: Virtual Machine
+- issues:
+    - Hypervisor hijacking (Virtual Machine Monitor (VMM) hijacking) (Hyperjacking)
+    - Side Channel attack
+-notes:
+
