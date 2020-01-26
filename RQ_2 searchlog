@@ -1,0 +1,156 @@
+
+Totals: 9946 webpages en 143 incidents
+
+Rollback attack: 949 webpages, 0 incidents. done
+Phishing attack: 757, 48 incidents done
+Escape attack: 856, 1 incident done
+Dos attack: 1248 webpages, 38 incidents done
+SQL Injection attack: 800, 22 incidents done
+Co-resident attack: 1166, 0 incidents done
+Man in the middle attack: 1177, 7 incidents done
+Spoofing: 1682 webpages, 7 incidents done
+Port scanning: 648, 2 incidents done
+GDPR compliance: 663 webpages, 18 incidents done
+
+Search in google news:
+
+- DoS attack:
+    - cloud incident "denial of service" hack incident report blog
+    Results: 257 webpages, 2 incidents
+
+- GDPR compliance:
+    - cloud "GDPR" incident news blog "fine" paid
+    Results: 261 webpages, 2 incidents
+
+- Port scanning:
+    - cloud "port-scanning" report hack malware
+    Results: 88 webpages, 0 incidents 
+    
+- Spoofing:
+    - cloud "poisoning" news hack "DNS" or "IP"
+    Results: 81 webpags, 0 incidents
+
+- Man in the middle attack:
+    - cloud "man-in-the-middle" news incident
+    Results: 274 webpages, 2 incidents
+
+- co-resident attack:
+    - cloud co-resident attack virtual machine incident report
+    Results: 0 webpages
+    - cloud co-resident virtual machine incident report
+    Results: 0 webpages
+
+- Rollback attack
+    - rollback downgrade attack virtual machine cloud
+    Results: 35 webapges, 0 incidents
+    - downgrade attack virtual machine cloud Iaas
+    Results: 95 webpages, 0 incidents
+    - rollback attack virtual machine cloud Iaas
+    Results: 288 webpages, 0 incidents
+    
+- Phishing attack
+    - cloud phishing attack leak malware
+    Results: 284 articles, 7 reported incidents
+    
+- VM Escape Attack:
+    -cloud virtual machine escape attack incident report "hacked"
+    Results: 0 webpages
+    
+- Sql Injection
+    - cloud "SQL injection" "hack" incident malware news
+    Results: 192 webpages, 3 incidents
+    
+Search in google
+
+- GDPR compliance:
+    - cloud GDPR incident news blog
+    Results: 290 webpages, 4 incidents
+    - cloud GDPR incident news blog fine paid
+    Results: 112 webpages, 12 incidents
+
+
+- Port scanning:
+    - cloud "port-scanning" attack incident hacked
+    Results: 281 webpages, 0 incidents
+    - cloud "port-scanning" report hack malware
+    Results: 279 webpages, 0 incidents
+
+
+- Man in the middle attack:
+    - cloud "man-in-the-middle" attack news incident hack report exploit
+    Results: 275 webpages, 2 incidents
+    - cloud "man-in-the-middle" news incident
+    Results: 290 webpages, 3 incidents
+    - cloud "man-in-the-middle" news "hack"
+    Results: 338 webpages, - incidents
+
+
+- Spoofing attack:
+    - cloud "spoofing attack" IP news hack
+    Results: 260 webpages, 1 incidents
+    - cloud "spoofing" attack news hack blog
+    Results: 358 webpages, 0 incidents
+    - cloud "spoofing" attack news blog "DNS" or "ARP" or "IP" hack
+    Results: 276 webpages, 0 incidents, new keywordd/synonim spoofing = poisoning.
+    - cloud "poisoning" attack news "DNS" or "IP" or "IP" hack incident
+    Results: 291 webpages, 2 incidents
+    - "cloud" and "poisoning" and "DNS" or "ARP" or "IP" incident news
+    Results: 288 webpages, 0 incidents
+    - cloud dns poisoning news incident
+    Results: 128 webpages, 4 incidents
+    
+    
+- co-resident attack:
+    - cloud "co-resident" virtual machine incident report "hack" news
+    Results: 288 webpages, 0 incidents
+    - cloud co-resident virtual machine exploitation incident blog "hacked" news
+    Results: 268 webpages, 0 incidents
+    - cloud virtual machine incident blog "side channel" attacks news
+    Results: 283 webpages, 0 incidents
+    - cloud "co-resident" or "co-residence" or "co-located" incident news blog report hack
+    Results: 16 webpages, 0 incidents
+    - cloud "co-resident" or "co-residence" or "co-located" incident news
+    Results: 27 webpages, 0 incidents
+    - cloud "co-located" incident news virtual machine
+    ResultsL 284 webpages, 0 incidents
+    
+- SQL Injection attack:
+    - cloud "SQL injection" hacking incident report blog news
+    Results: 312 webpages, 9 incidents
+    - cloud "SQL injection" "hack" incident malware news
+    Results: 296 webpages, 10 incidents
+    
+- Dos attack:
+    - cloud incident report distributed "denial of service" OR "DdoS" attack
+    Results: 343 webpages, 24 incidents
+    - cloud incident distributed "denial of service" "hacked"
+    Results: 309 webpages, 10 incidents
+    - cloud incident "denial of service" hacked report blog
+    Results: 339 webpages , 2 incidents
+    
+- VM Escape attack:
+    - cloud "virtual machine escape attack" OR "VM escape attack" incident report 'hacked'
+    Results: 164 webpages, 1 incident
+    - cloud "virtual machine escape attack" incident report 'hacked'
+    Results: 20 webpages, 0 incidents
+    - cloud virtual machine escape attack incident report 'hacked'
+    Results: 85 webpages, 0 incidents
+    - cloud VM escape attack exploit
+    Results: 303 webpages , 0 incidents, 1 new Keyword: VM hyper jumping
+    - cloud virtual machine hyper jumping attack exploit "hacked"
+    Results: 284 webpages, 0 incidents
+    
+- Phishing attack
+    - cloud "phishing attack" leak malware blog incident "hacked"
+    Results: 278 webpages, 27 incidents reports
+    - cloud "phishing attack" malware news incident "hack"
+    Results: 273 webpages, 14 incidents
+    
+- Rollback attack
+    - rollback downgrade attack virtual machine cloud
+    Results: 68 webpages, 0 incidents, when added incident and hacked only 16 webapges and no incidents
+    - downgrade attack virtual machine cloud Iaas
+    Results: 76 webpages, 0 incidents, when added incident and hacked only 31 webpages and no incidents
+    - rollback attack virtual machine cloud Iaas incident hacked
+    Results: 214 webpages, 0 incidents, when added incidents and hacked only 126 webpages, 0 incidents
+
